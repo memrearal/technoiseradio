@@ -1,0 +1,28 @@
+{
+    "programs": [
+        {
+            "name": "BE OUR GUEST",
+            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/Be-Our-Guest.jpg?resize=370%2C370&ssl=1"
+        },
+        {
+            "name": "RSDNTS",
+            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/08/RESIDENTS-PROMO.jpg?resize=370%2C370&ssl=1"
+        },
+        {
+            "name": "LOCAL ENERGY",
+            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/LOCAL-ENERGY1.jpg?resize=370%2C370&ssl=1"
+        },
+        {
+            "name": "FRESH TALENT",
+            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/PROMO.jpg?resize=370%2C370&ssl=1"
+        },
+        {
+            "name": "KITE SHOWCASE",
+            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/kite-site.jpg?resize=370%2C370&ssl=1"
+        },
+        {
+            "name": "PLUR EVENTS SHOWCASE",
+            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/Promo-Website.jpg?resize=370%2C370&ssl=1"
+        }
+    ]
+}

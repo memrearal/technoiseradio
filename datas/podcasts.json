@@ -1,0 +1,409 @@
+{
+    "podcasts": [
+        {
+            "name": "BE OUR GUEST",
+            "episodes": [
+                {
+                    "id": "BEOUG052",
+                    "name": "ONUR ATES [BEOUG052]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/52.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "37",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "BEOUG051",
+                    "name": "MHA IRI [BEOUG051]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/51.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "7",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "BEOUG050",
+                    "name": "AYBERK CESUR [BEOUG050]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/50.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "15",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "BEOUG049",
+                    "name": "ANIL BÜTÜN [BEOUG049]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/49.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "10",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "BEOUG048",
+                    "name": "ONGUN TÜTÜNCÜ [BEOUG048]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/48.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "7",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "RSDNTS",
+            "episodes": [
+                {
+                    "id": "R021",
+                    "name": "FIRAT DENİZ [R021]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/21-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "42",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "R020",
+                    "name": "KOBALAS [R020]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/20-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "7",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "R019",
+                    "name": "OUTDO ANGST [R019]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/19-2.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "6",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "R018",
+                    "name": "MEY [R018]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/18-2.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "3",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "R017",
+                    "name": "İREM ERTÜRK [R017]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/17-2.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "7",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "PLUR EVENTS",
+            "episodes": [
+                {
+                    "id": "TXPL024",
+                    "name": "KARDELENZO [TXPL024]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a25-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "11",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXPL023",
+                    "name": "NARGIZA KAZIYEVA [TXPL023]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a24-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "13",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXPL022",
+                    "name": "TOLUNAY ER [TXPL022]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a23-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "13",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXPL021",
+                    "name": "SUAT DVC [TXPL021]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a22-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "7",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXPL020",
+                    "name": "ALEX W MARX [TXPL020]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/b21-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "11",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "NEW YEAR SHOWCASE",
+            "episodes": [
+                {
+                    "id": "NYS09",
+                    "name": "KIPER [NYS09]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/c9.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "9",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "NYS08",
+                    "name": "IREM ERTURK [NYS08]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a8-2.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "4",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "NYS07",
+                    "name": "ISABELA CLERC [NYS07]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a7-2.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "19",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "NYS06",
+                    "name": "GLAISTIG [NYS06]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a6-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "NYS05",
+                    "name": "AYAZ / COXENBERG / UMUTBOOY [NYS05]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a5-2.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "43",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "JACKHOUSE",
+            "episodes": [
+                {
+                    "id": "TXJH025",
+                    "name": "AYBERK CESUR [TXJH025]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a25.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "6",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXJH024",
+                    "name": "BERIVAN YAKUT [TXJH024]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a24.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "30",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXJH023",
+                    "name": "HA KHAN [TXJH023]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a23.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "6",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXJH022",
+                    "name": "FRATELLO [TXJH022]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/a22.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "6",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "TXJH021",
+                    "name": "FUTURE NØW [TXJH021]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/b21.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "3",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "CEREMONIE",
+            "episodes": [
+                {
+                    "id": "CER009",
+                    "name": "VIL [CER009]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/9.png?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "3",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "CER008",
+                    "name": "DAVE BLACK [CER008]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/8-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "CER007",
+                    "name": "RHODIUM [CER007]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/7.png?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "11",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "CER006",
+                    "name": "VERSCHWENDER [CER006]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/6.png?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "CER005",
+                    "name": "DARIA KOLOSOVA [CER005]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/5.png?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "6",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "ST",
+            "episodes": [
+                {
+                    "id": "ST004",
+                    "name": "SAYINERR [ST004]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/4-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "ST003",
+                    "name": "TOLGA ARPA [ST003]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/3-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "12",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "ST002",
+                    "name": "PASSONE [ST002]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/2-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "4",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "ST001",
+                    "name": "TAN [ST001]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/1-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "4",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "ST000",
+                    "name": "SAYINERR [ST000]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/4-1.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "FRESH TALKS",
+            "episodes": [
+                {
+                    "id": "FT041",
+                    "name": "İREM GÖKDUMAN [FT041]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/41.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "19",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "FT040",
+                    "name": "CAN YILDIZAY [FT040]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/40.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "22",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "FT039",
+                    "name": "TANKY [FT039]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/39.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "10",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "FT038",
+                    "name": "ILDES [FT038]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/38.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "4",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "FT037",
+                    "name": "FLOWIST [FT037]",
+                    "cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/37.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        },
+        {
+            "name": "SEASON 2 OPENING WEEK",
+            "episodes": [
+                {
+                    "id": "WF14",
+                    "name": "STEFAN ADDO [S2OWF14]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/14.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "2",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "WF13",
+                    "name": "FIRAT DENİZ [S2OWF13]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/13.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "WF12",
+                    "name": "MAGUAR [S2OWF12]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/12.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "WF11",
+                    "name": "CÄRBONE [S2OWF11]",
+                    "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/11.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "5",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                },
+                {
+                    "id": "WF10",
+                    "name": "GÖKHAN KANDAZOĞLU [S2OWF10]",
+                    "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/10.jpg?resize=370%2C480&ssl=1",
+                    "date": "EYLÜL 6, 2021",
+                    "views": "11",
+                    "url": "https://www.technoiseradio.com/tr/podcast/plvs-vltra-beoug057/"
+                }
+            ]
+        }
+    ]
+}

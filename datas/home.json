@@ -1,0 +1,363 @@
+{
+	"home": [
+		{
+			"name": "UP NEXT",
+			"type": 0,
+			"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DAILY TUNES",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/DAILY-TUNES-D%C3%9CZ.jpg?fit=300%2C300&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "SOLAR SWITCH",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/SOLAR-SWITCH.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 3:00 am"
+						}
+			]
+		},
+		{
+			"name": "SCHEDULE",
+			"type": 1,
+			"items": [
+				{
+					"name": "Monday",
+					"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DAILY TUNES",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/DAILY-TUNES-D%C3%9CZ.jpg?fit=300%2C300&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "SOLAR SWITCH",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/SOLAR-SWITCH.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 3:00 am"
+						}
+					]
+				},
+				{
+					"name": "Tuesday",
+					"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DAILY TUNES",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/DAILY-TUNES-D%C3%9CZ.jpg?fit=300%2C300&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "SOLAR SWITCH",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/SOLAR-SWITCH.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 3:00 am"
+						}
+					]
+				},
+				{
+					"name": "Wednesday",
+					"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DAILY TUNES",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/DAILY-TUNES-D%C3%9CZ.jpg?fit=300%2C300&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "SOLAR SWITCH",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/SOLAR-SWITCH.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 10:00 pm"
+						},
+						{
+							"name": "FRESH TALENT",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/PROMO.jpg?fit=770%2C770&ssl=1",
+							"desc": "10:00 pm - 11:00 pm"
+						},
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "11:00 pm - 3:00 am"
+						}
+					]
+				},
+				{
+					"name": "Thursday",
+					"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DAILY TUNES",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/DAILY-TUNES-D%C3%9CZ.jpg?fit=300%2C300&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "SOLAR SWITCH",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/SOLAR-SWITCH.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 3:00 am"
+						}
+					]
+				},
+				{
+					"name": "Friday",
+					"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DAILY TUNES",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/DAILY-TUNES-D%C3%9CZ.jpg?fit=300%2C300&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "SOLAR SWITCH",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/SOLAR-SWITCH.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 10:00 pm"
+						},
+						{
+							"name": "RESIDENTS",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/08/RESIDENTS-PROMO.jpg?fit=300%2C300&ssl=1",
+							"desc": "10:00 pm - 12:00 am"
+						}
+					]
+				},
+				{
+					"name": "Saturday",
+					"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DAILY TUNES",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/DAILY-TUNES-D%C3%9CZ.jpg?fit=300%2C300&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "SOLAR SWITCH",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/SOLAR-SWITCH.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 10:00 pm"
+						},
+						{
+							"name": "LOCAL ENERGY",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/LOCAL-ENERGY1.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 10:00 pm"
+						},
+						{
+							"name": "BE OUR GUEST",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/Be-Our-Guest.jpg?fit=770%2C770&ssl=1",
+							"desc": "10:00 pm - 12:00 am"
+						}
+					]
+				},
+				{
+					"name": "Sunday",
+					"items": [
+						{
+							"name": "AFTER PARTY",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/AFTER-PARTY.jpg?resize=300%2C300&ssl=1",
+							"desc": "3:00 am - 6:00 am"
+						},
+						{
+							"name": "MORNING JUICE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/01/Basliksiz-1.jpg?resize=300%2C300&ssl=1",
+							"desc": "6:00 am - 12:00 pm"
+						},
+						{
+							"name": "DETOX",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/DETOX-2.jpg?fit=770%2C770&ssl=1",
+							"desc": "12:00 pm - 4:00 pm"
+						},
+						{
+							"name": "ALL IN HOUSE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/ALL-IN-HOUSE.jpg?fit=300%2C300&ssl=1",
+							"desc": "4:00 pm - 5:00 pm"
+						},
+						{
+							"name": "DISCO BALL",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/08/DISCOBALL2.jpg?fit=300%2C300&ssl=1",
+							"desc": "5:00 pm - 6:00 pm"
+						},
+						{
+							"name": "ALL IN HOUSE",
+							"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/ALL-IN-HOUSE.jpg?fit=300%2C300&ssl=1",
+							"desc": "6:00 pm - 7:00 pm"
+						},
+						{
+							"name": "DISCO BALL",
+							"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/08/DISCOBALL2.jpg?fit=300%2C300&ssl=1",
+							"desc": "7:00 pm - 8:00 pm"
+						},
+						{
+							"name": "CLUB TECHNOISE",
+							"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/07/CLUB-TECHNOISE.jpg?fit=300%2C300&ssl=1",
+							"desc": "8:00 pm - 3:00 am"
+						}
+					]
+				},
+			]
+		},
+		{
+			"name": "CHECK OUT ON SOUNDCLOUD",
+			"type": 2,
+			"items": "https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F798002512&show_artwork=false&maxheight=1000&maxwidth=1170&auto_play=false&buying=true&liking=true&download=false&sharing=true&show_comments=true&show_playcount=true&show_user=true&color=29EDF2"
+		},
+		{
+			"name": "MEET THE RSDNTS",
+			"type": 0,
+			"items": [
+				{
+					"name": "Fırat Deniz",
+					"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/FIRAT.jpg?resize=370%2C480&ssl=1",
+					"desc": "RESIDENT DJ"
+				},
+				{
+					"name": "Kiper",
+					"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/KIPER-0162.jpg?resize=370%2C480&ssl=1",
+					"desc": "RESIDENT DJ"
+				},
+				{
+					"name": "Kobalas",
+					"cover": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/KOBALAS.jpg?resize=370%2C480&ssl=1",
+					"desc": "RESIDENT DJ"
+				},
+				{
+					"name": "Doğukan Şerifoğlu",
+					"cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/DOGUKAN-SERIFOGLU-010.jpg?resize=370%2C480&ssl=1",
+					"desc": "RESIDENT DJ"
+				},
+				{
+					"name": "Outdo Angst",
+					"cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/OUTDO-ANGST-015.jpg?resize=370%2C480&ssl=1",
+					"desc": "RESIDENT DJ"
+				},
+			]
+		},
+		{
+			"name": "CONTACT US",
+			"type": 3,
+			"items": [
+				{
+					"name": "Mail",
+					"cover": "envelope",
+					"desc": "info@technoiseradio.com"
+				},
+				{
+					"name": "Soundcloud",
+					"cover": "soundcloud",
+					"desc": "https://soundcloud.com/technoise-radio/"
+				},
+				{
+					"name": "Instagram",
+					"cover": "instagram",
+					"desc": "https://www.instagram.com/technoise.radio/"
+				},
+				{
+					"name": "Youtube",
+					"cover": "youtube",
+					"desc": "https://www.youtube.com/channel/UCNl-o2ULFi3sR8XINL7UOMA"
+				},
+				{
+					"name": "Spotify",
+					"cover": "spotify",
+					"desc": "https://open.spotify.com/user/o1tbsooi1md7cua3hljiphqln"
+				},
+				{
+					"name": "Facebook",
+					"cover": "facebook",
+					"desc": "https://www.facebook.com/technoiseradio"
+				},
+			]
+		}
+	]
+}
