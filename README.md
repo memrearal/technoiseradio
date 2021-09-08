@@ -1,4 +1,5 @@
 
+
 # TECHNOISE RADIO Mobile App
 Ankara'nın ilk ve tek 7/24 Electronik müzik radyosu Technoise Radio'ya ait mobil uygulamanın dizayn kısmının ~75%'i, fonksiyonel özelliklerinin ise ~70%'i çalışır durumdadır.
 
@@ -18,10 +19,11 @@ QR Code:
 
 
 ##### Cihazdan Canlı Test ( Sadece Android ):
-Android cihazlar için hazırlanmış son test buildini telefona yükleyerek test edebilirsiniz.
-06.09.2021 tarihli test buildi linki (30 gün için indirme linki geçerlidir): [https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-a6ef07f586f44c5d9d75afe31455cdf7-signed.apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/@memrearal/technoiseradio-a6ef07f586f44c5d9d75afe31455cdf7-signed.apk)
+Android cihazlar için hazırlanmış son test buildini telefona yükleyerek test edebilirsiniz. Bütün build linkleri konu sonunda belirtilmiştir.
 
-##### Tarayıcıdan Canlı Test:
+08.09.2021 tarihli son test buildi link: [https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-7f86d68d592a4ab5a5353cb72290a745-signed.apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-7f86d68d592a4ab5a5353cb72290a745-signed.apk)
+
+##### Tarayıcıdan Canlı Test (Sadece Güncel Buildi İçerir):
 [https://appetize.io/app/u8r1tyb76ajgpgf7f8hq1zad68](https://appetize.io/app/u8r1tyb76ajgpgf7f8hq1zad68) linki üzerinden uygulamayı farklı çözünürlüklerde deneyebilirsiniz. Tarayıcıdan canlı test sırasında çok miktarda donma ve kasma ile karşılaşacağınız ve uygulama içindeki Player'a ait ses tarayıcı üzerinde size iletilemeyeceği için, uygulamayı -tercihen Android- cihazınızda test etmeniz önerilir.
 
 ### Ekran Görüntüleri:
@@ -41,6 +43,7 @@ Android cihazlar için hazırlanmış son test buildini telefona yükleyerek tes
 #### Dizayn & Fonksiyonel Özellikler Yol Haritası
 <u>*Lütfen Okuyun ile belirtilen detaylar liste sonunda bulunmaktadır.*</u>
 - [ ] Sunucu ile Veri Akışı Sağlanması [05.09.2021] [*Lütfen Okuyun: 1*]
+- [x] Uygulama Güncellemelerinin Arka planda Alınması [09.09.2021]
 - [x] Mobil cihazlarda açık ve kapalı moda uygun geliştirilen componentler. [05.09.2021]
 - [x] Uygulama dışı bağlantılar için gerekli algoritma ( SoundCloud, Spotify, Instagram, Facebook, YouTube, Mail, ...) [06.09.2021]
 - [x] Technoise Radio'yu canlı olarak dinleyebilmek için player [05.09.2021 - 06.09.2021]
@@ -87,3 +90,19 @@ Android cihazlar için hazırlanmış son test buildini telefona yükleyerek tes
 [Lütfen Okuyun: 7] : Podcast Detayları sayfasına göz atabilmek için ekranın altındaki menüden podcastler sekmesine gelmeli ve herhangi bir podcast'e tıklamalısınız.
 
 [Lütfen Okuyun: 8] : Fonksiyonel özellikler, uygulama için navigasyon sistemini, responsive tasarıma (elementlerin ekran genişliğine göre yeniden şekillenmesi), farklı verilere göre gerekli görünümleri oluşturmak, güncellemek, silmek gibi detayları içerir.
+
+#### Buildler & Changelog:
+
+08.09.2021 - Update 0.1:
+
+Podcast Detayları sayfasına ait dizayn eklendi. Uygulama güncellemelerini arka planda alma özelliği aktifleştirildi.
+
+Build Linki (<u>09.09.2021 tarihinden itibaren</u> 30 gün için indirme linki geçerlidir): [https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-a6ef07f586f44c5d9d75afe31455cdf7-signed.apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/@memrearal/technoiseradio-a6ef07f586f44c5d9d75afe31455cdf7-signed.apk)
+
+-----
+
+06.09.2021 - Init:
+
+Ana Sayfa, Programs, Podcasts, Shop & Hakkımızda sayfalarına ait dizaynları ve bazı fonksiyonel özellikleri içerir. Mini player sadece şarkı ismi ve sanatçı adı döndürür, oynatma dahildir.
+
+Build Linki (<u>06.09.2021 tarihinden itibaren</u> 30 gün için indirme linki geçerlidir): [https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-a6ef07f586f44c5d9d75afe31455cdf7-signed.apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/@memrearal/technoiseradio-a6ef07f586f44c5d9d75afe31455cdf7-signed.apk)
