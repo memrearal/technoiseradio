@@ -1,0 +1,15 @@
+{
+    "podcast": {
+        "name": "BE OUR GUEST",
+        "cover_original": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/57.jpg?zoom=2&amp;resize=370%2C480&amp;ssl=1",
+        "cover_small": "https://i0.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/57.jpg?resize=370%2C480&ssl=1",
+        "category": "BEOUG",
+        "date": "Eylül 9, 2021",
+        "desc": "",
+        "link": {
+            "type": 0,
+            "uri": "https://soundcloud.com/technoise-radio/be-our-guest-guestmix-series-plvs-vltra?in=technoise-radio/sets/be-our-guest-guestmixes",
+            "appuri": "soundcloud://sounds:972975757"
+        }
+    }
+}
