@@ -2,6 +2,7 @@
     "podcasts": [
         {
             "name": "BE OUR GUEST",
+            "category": "BEOUG",
             "episodes": [
                 {
                     "id": "BEOUG052",
@@ -47,6 +48,7 @@
         },
         {
             "name": "RSDNTS",
+            "category": "RSDNTS",
             "episodes": [
                 {
                     "id": "R021",
@@ -92,6 +94,7 @@
         },
         {
             "name": "PLUR EVENTS",
+            "category": "TXPL",
             "episodes": [
                 {
                     "id": "TXPL024",
@@ -137,6 +140,7 @@
         },
         {
             "name": "NEW YEAR SHOWCASE",
+            "category": "NYS",
             "episodes": [
                 {
                     "id": "NYS09",
@@ -182,6 +186,7 @@
         },
         {
             "name": "JACKHOUSE",
+            "category": "TXJH",
             "episodes": [
                 {
                     "id": "TXJH025",
@@ -227,6 +232,7 @@
         },
         {
             "name": "CEREMONIE",
+            "category": "CER",
             "episodes": [
                 {
                     "id": "CER009",
@@ -272,6 +278,7 @@
         },
         {
             "name": "ST",
+            "category": "ST",
             "episodes": [
                 {
                     "id": "ST004",
@@ -317,6 +324,7 @@
         },
         {
             "name": "FRESH TALKS",
+            "category": "FT",
             "episodes": [
                 {
                     "id": "FT041",
@@ -362,6 +370,7 @@
         },
         {
             "name": "SEASON 2 OPENING WEEK",
+            "category": "WF",
             "episodes": [
                 {
                     "id": "WF14",

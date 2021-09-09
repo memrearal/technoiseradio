@@ -2,27 +2,45 @@
     "programs": [
         {
             "name": "BE OUR GUEST",
-            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/Be-Our-Guest.jpg?resize=370%2C370&ssl=1"
+            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/Be-Our-Guest.jpg?resize=370%2C370&ssl=1",
+            "desc": "Technoise Radio’nun amiral gemisi programı Be Our Guest, her hafta Cumartesi Türkiye’nin ve Dünya’nın dört bir yanından önde gelen sanatçıları kabul eder. 2019’da yayına giren ve önce Ankara’da ardından tüm Türkiye’de kendi kitlesini yaratan program kısa sürede Cumartesi Gecesi ile bütünleşmiş ve kimliğini tamamlamıştır. Görsel kimliği ve imajı ile, yarattığı soyut kimliğe hayat veren program 23.00’da warmup, 00.00’da headliner sanatçılarını dinleyicileriyle buluşturur.",
+            "date": "Saturday",
+            "time": "10:00 pm - 12:00 am"
         },
         {
             "name": "RSDNTS",
-            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/08/RESIDENTS-PROMO.jpg?resize=370%2C370&ssl=1"
+            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/08/RESIDENTS-PROMO.jpg?resize=370%2C370&ssl=1",
+            "desc": "Technoise Radio’nun 2020 yılında hem artan dinleyici sayısına yanıt vermek hem de kendi sanatçı havuzunu oluşturmak adına hayata geçirdiği Residents, bir programdan öte radyo içi bir oluşumdur. 25-35 yaş aralığındaki aynı jenerasyona ait 7 sanatçısı, ortak özellikler ve kariyer planları göz önüne alınarak özenle bir araya getirilmiştir. Her Cuma gecesi 2 Resident DJ’in performans sergilediği Residents programı, değişen bir döngüyle sanatçılarını dinleyicileriyle buluşturur.",
+            "date": "Friday",
+            "time": "10:00 pm - 12:00 am"
         },
         {
             "name": "LOCAL ENERGY",
-            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/LOCAL-ENERGY1.jpg?resize=370%2C370&ssl=1"
+            "cover": "https://i2.wp.com/www.technoiseradio.com/wp-content/uploads/2020/12/LOCAL-ENERGY1.jpg?resize=370%2C370&ssl=1",
+            "desc": "Ankara’nın ilk ve tek elektronik müzik radyosu olarak her zaman yerli sanatçılarımızla gururla çalışan Technoise Radio, şimdi Türkiye’de bir ilk olarak Local Energy programını yayına alıp can veriyor. Türkiye’nin dört bir yanından yerli sanatçıların yer aldığı 2 saatlik program Local Energy her Salı 21.00-23.00 arası Technoise Radio’da.",
+            "date": "Saturday",
+            "time": "8:00 pm - 10:00 pm"
         },
         {
             "name": "FRESH TALENT",
-            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/PROMO.jpg?resize=370%2C370&ssl=1"
+            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/PROMO.jpg?resize=370%2C370&ssl=1",
+            "desc": "Her Çarşamba birbirinden yetenekli yeni isimlere elektronik müzik sahnesinde yer veren, janra kısıtlaması olmadan sanatçı adaylarının kendi tarzlarını paylaşmalarına olanak sağlayan Fresh Talent 23.00 ve 00.00 arası dinleyicileriyle buluşur. Türkiye’de bir ilke imza atan Technoise Radio, Fresh Talent programı ile birçok ismi henüz kitlelere ulaşmamış DJ’e müziğini paylaşması için fırsat sunan bir platform olmanın yanı sıra yayın hayatına başladığı ilk günden bugüne dek en çok dinlenen programlardan biri olarak da öne çıkar.",
+            "date": "Wednesday",
+            "time": "10:00 pm - 11:00 pm"
         },
         {
             "name": "KITE SHOWCASE",
-            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/kite-site.jpg?resize=370%2C370&ssl=1"
+            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/kite-site.jpg?resize=370%2C370&ssl=1",
+            "desc": "",
+            "date": "",
+            "time": ""
         },
         {
             "name": "PLUR EVENTS SHOWCASE",
-            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/Promo-Website.jpg?resize=370%2C370&ssl=1"
+            "cover": "https://i1.wp.com/www.technoiseradio.com/wp-content/uploads/2021/02/Promo-Website.jpg?resize=370%2C370&ssl=1",
+            "desc": "Antalya merkezli oluşum PLUR bir organizasyon ekibir. Farklı şehirlerde farklı alanlardan oluşumlarla çalışmalara önem veren Technoise Radio 3. Sezonunda her pazar akşamı 23.00 ile 01.00 arası PLUR Showcase’de PLUR Events sanatçılarına yer vermiştir. Aynı zamanda radyonun çözüm ortaklarından olan PLUR, Technoise Radio’nun Antalya’daki etkinlik organizasyonlarında da yer alacaktır.",
+            "date": "",
+            "time": ""
         }
     ]
 }
