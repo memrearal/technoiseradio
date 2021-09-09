@@ -1,5 +1,5 @@
 # TECHNOISE RADIO Mobile App
-Ankara'nın ilk ve tek 7/24 Electronik müzik radyosu Technoise Radio'ya ait mobil uygulamanın dizayn kısmının ~85%'i, fonksiyonel özelliklerinin ise ~70%'i çalışır durumdadır [*Lütfen Okuyunuz 1*].
+Ankara'nın ilk ve tek 7/24 Electronik müzik radyosu Technoise Radio'ya ait mobil uygulamanın dizayn kısmının ~95%'i, fonksiyonel özelliklerinin ise ~80%'i çalışır durumdadır [*Lütfen Okuyunuz 1*].
 
 ### Canlı Test:
 ##### Cihazdan Canlı Test ( iOS & Android ):
@@ -19,7 +19,7 @@ QR Code:
 ##### Cihazdan Canlı Test ( Sadece Android ):
 Android cihazlar için hazırlanmış son test buildini telefona yükleyerek test edebilirsiniz. Bütün build linkleri konu sonunda belirtilmiştir.
 
-09.09.2021 tarihli son test buildi link: [https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-492c203374254c6594fbb4dc5ad1cf4f-signed.apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-492c203374254c6594fbb4dc5ad1cf4f-signed.apk)
+10.09.2021 tarihli son test buildi link: [https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-55e190b48333442fb6a9c879727229dd-signed.apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-55e190b48333442fb6a9c879727229dd-signed.apk)
 
 ##### Tarayıcıdan Canlı Test (Sadece Güncel Buildi İçerir):
 [https://appetize.io/app/u8r1tyb76ajgpgf7f8hq1zad68](https://appetize.io/app/u8r1tyb76ajgpgf7f8hq1zad68) linki üzerinden uygulamayı farklı çözünürlüklerde deneyebilirsiniz. Tarayıcıdan canlı test sırasında çok miktarda donma ve kasma ile karşılaşacağınız ve uygulama içindeki Player'a ait ses tarayıcı üzerinde size iletilemeyeceği için, uygulamayı -tercihen Android- cihazınızda test etmeniz önerilir.
@@ -36,6 +36,7 @@ Android cihazlar için hazırlanmış son test buildini telefona yükleyerek tes
 | Podcastler | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Podcasts/podcasts-android1.jpg?raw=true" width="250" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Podcasts/podcasts-android2.jpg?raw=true" width="250" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Podcasts/podcasts-android3.jpg?raw=true" width="250" height="500" /> | -- | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Podcasts/podcasts-ios1.PNG?raw=true" width="300" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Podcasts/podcasts-ios2.PNG?raw=true" width="300" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Podcasts/podcasts-ios3.PNG?raw=true" width="300" height="500" /> |
 | Podcast Detayları | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots09092021/PodcastDetails/podcastdetails-android.jpg?raw=true" width="250" height="500" /> | -- | -- |
 | Shop | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Shop/shop-android.jpg?raw=true" width="250" height="500" />  | -- | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Shop/shop-ios.PNG?raw=true" width="300" height="500" /> |
+| Ürün Detayları | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots10092021/ProductDetails/productdetails-android.jpg?raw=true" width="250" height="500" /> | -- | -- |
 | Hakkımızda | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/About/about-android1.jpg?raw=true" width="250" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/About/about-android2.jpg?raw=true" width="250" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/About/about-android3.jpg?raw=true" width="250" height="500" /> | -- | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/About/about-ios1.PNG?raw=true" width="300" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/About/about-ios2.PNG?raw=true" width="300" height="500" /><img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/About/about-ios3.PNG?raw=true" width="300" height="500" /> |
 | Player | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Other/player-start.jpg?raw=true" /> | -- | <img src="https://github.com/memrearal/technoiseradio/blob/main/screenshots06092021/Other/player-pause.jpg?raw=true" /> |
 
@@ -64,15 +65,15 @@ Android cihazlar için hazırlanmış son test buildini telefona yükleyerek tes
  - [x] Podcasts [06.09.2021]
 	 - [x] Dizayn
 	 - [x] Fonksiyonel Özellikler
-- [ ] Podcast Detayları [*Lütfen Okuyun: 7*]
+- [x] Podcast Detayları [*Lütfen Okuyun: 7*]
 	- [x] Dizayn [08.09.2021]
-	- [ ] Fonksiyonel Özellikler
+	- [x] Fonksiyonel Özellikler [10.09.2021]
  - [x] Shop [06.09.2021]
 	 - [x] Dizayn
 	 - [x] Fonksiyonel Özellikler
- - [ ] Ürün Detayları Sayfası
-	 - [ ] Dizayn
-	 - [ ] Fonksiyonel Özellikler
+ - [x] Ürün Detayları Sayfası [10.09.2021]
+	 - [x] Dizayn
+	 - [x] Fonksiyonel Özellikler
  - [x] Hakkımızda Sayfası (*Sadece dizayn, fonksiyonel özellik <u>şu an için</u> içermemektedir.*) [05.09.2021]
 
 [Lütfen Okuyun: 1] : Henüz Technoise Radio'ya ait public bir API olmadığı için, veriler, 05.06.2021 ve 06.09.2021 tarihleri içerisinde site içerisinde yer içeriklerin JSON verilere dönüştürülmesi ile uygulamada test edilmiştir. Kullanılan mock verileri repo içerisinde [https://github.com/memrearal/technoiseradio/tree/main/datas](https://github.com/memrearal/technoiseradio/tree/main/datas) (datas klasöründe) bulabilirsiniz. Aynı şekilde bir API olmaması yüzünden program ve podcast detaylarına ait sayfalarda beğeni ve kaydetme özellikleri, uygulama içi verilerin güncellenmesi özellikleri çalışmamaktadır.
@@ -94,6 +95,14 @@ Android cihazlar için hazırlanmış son test buildini telefona yükleyerek tes
 ### Buildler & Changelog:
 
 #### *Buildlere ait ekran görüntülerine ulaşmak için build ismine tıklayabilirsiniz.*
+
+[10.09.2021 - Update 0.3:](https://github.com/memrearal/technoiseradio/blob/main/builddetails/build10092021.md)
+
+Ürün detayları sayfası dizaynı ve fonksiyonları eklendi. Navigasyon sekmeleri Stack Navigatorlerle değiştirildi. React Navigation sistemine deep linking temelleri atıldı.
+
+Build Linki (<u>10.09.2021 tarihinden itibaren</u> 30 gün için indirme linki geçerlidir): [https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-55e190b48333442fb6a9c879727229dd-signed.apk](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40memrearal/technoiseradio-55e190b48333442fb6a9c879727229dd-signed.apk)
+
+-----
 
 [09.09.2021 - Update 0.2:](https://github.com/memrearal/technoiseradio/blob/main/builddetails/build09092021.md)
 
